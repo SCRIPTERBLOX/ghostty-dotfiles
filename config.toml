@@ -1,0 +1,3 @@
+[rendering]
+shader_path = "/path/to/wobble_shader.glsl"
+
